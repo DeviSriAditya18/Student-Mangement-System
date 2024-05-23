@@ -1,0 +1,1 @@
+The student management system is an environment where all the process of the student in the institution is managed . It is done through the automated computerized method. Conventionally this system is done using papers , files and binders. But this system saves the time of the student and of the administrator.
